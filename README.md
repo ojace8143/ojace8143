@@ -3,3 +3,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojace8143&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojace8143&layout=compact&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojace8143&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojace8143&layout=compact&theme=github_dark" height="180"/>
+</p>
