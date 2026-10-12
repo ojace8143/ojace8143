@@ -4,19 +4,23 @@ guy who likes linux. i'm a self taught programmer in the works, and a pro bad id
 
 i spend a lot of time typing really fast on monkeytype and self hosting things
 
+i listen to only the best genre, rock. my favorite band is Incubus.
+
 ## currently:
 
-gentoo linux (pc)\
+void linux musl (pc)\
 void linux (server)\
 running local llms\
-started godot recently (havent had much time to play around with it yet)\
 wanting to build a stupidly overpowered home server\
-making cool personal projects to learn\
+making cool personal projects to learn
+addicted to cpp
+making a game with sfml in cpp for a school thing
+planning an OpenGL project with cpp (i'll start once i refine my skill)
 
 ## projects rn:
 
-### music player with sdl3
-written in c instead of cpp for extra fun. supposed to be an offline thing with preloaded music.
+### sfml platformer in cpp
+stupid little platformer. sfml, cpp.
 
 ### self hosting stuff
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
@@ -34,9 +38,9 @@ docker stuff like forgejo, minecraft servers, and other dumb stuff like arch lin
 ## my setup
 laptop
 ```main laptop
-OS      Gentoo Linux
-WM      DWM
-Shell   ZSH
+OS      Void Linux (musl)
+WM      MangoWM
+Shell   zsh
 Editor  neovim
 GPU     RTX 4060/780M
 CPU     Ryzen 9 7940HS
@@ -62,6 +66,6 @@ RAM     4GB ddr4
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojace8143&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ojace8143&show_icons=true&theme=github_dark" height="180" style="padding: 7px/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojace8143&layout=compact&theme=github_dark" height="180"/>
 </p>
