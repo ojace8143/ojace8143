@@ -23,7 +23,7 @@ Stupid little platformer. SFML, cpp. Collabing with a friend
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
 
 ## Goals
-- 165+ wpm 15 secons
+- 165+ wpm 15 seconds (literally just did that lol smashed pb by 8wpm)
 - 145+ wpm 60 seconds
 - Get better at c, continue learning and refining cpp skill
 - Lean how to use OpenGL with cpp, and maybe make a little game engine
