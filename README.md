@@ -14,7 +14,7 @@ Addicted to cpp (it's only getting stronger)
 Making a game with SFML in cpp for a school thing
 Planning an OpenGL project with cpp (i'll start once i refine my skill and finish up my SFML project)
 
-## projects rn:
+## Projects:
 
 ### SFML platformer in cpp
 Stupid little platformer. SFML, cpp. Collabing with a friend
@@ -22,13 +22,13 @@ Stupid little platformer. SFML, cpp. Collabing with a friend
 ### self hosting stuff
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
 
-## goals
+## Goals
 - 165+ wpm 15 secons
 - 145+ wpm 60 seconds
 - Get better at c, continue learning and refining cpp skill
 - Lean how to use OpenGL with cpp, and maybe make a little game engine
-- Start lua soon
-- Make a stupid little kernel with Zig for no reason except i like Zig
+- Start lua soon or something
+- Make a stupid little kernel with Zig for no reason except I like Zig
 
 ### Links
 [website](https://ojace8143.github.io)
@@ -44,6 +44,7 @@ Editor  neovim
 GPU     RTX 4060/780M
 CPU     Ryzen 9 7940HS
 RAM     32GB ddr5 (dont rob me just be poor)
+MODEL   Asus Tuf Gaming a15
 ```
 Server (intel nuc from like 2015)
 ```my server
@@ -62,8 +63,10 @@ Editor  Neovim
 GPU     Vega 3
 CPU     AMD Athlon 3050e Silver
 RAM     4GB ddr4
+MODEL   Ideapax Flex3 (11ada05)
 ```
 
+## Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojace8143&show_icons=true&theme=github_dark" height="180" style="padding: 7px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojace8143&layout=compact&theme=github_dark" height="180"/>
