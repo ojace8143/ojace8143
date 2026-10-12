@@ -1,26 +1,23 @@
-# ojace8143's homepage
+# ojace8143's stuff
 
-guy who likes linux. i'm a self taught programmer in the works, and a pro bad idea generator
+Just a high school sophomore who likes Linux. I'm a self taught programmer in the works, and a stupid idea generator
 
-i spend a lot of time typing really fast on monkeytype and self hosting things
+I spend a lot of time typing really fast on Monkeytype and self hosting things, and I listen to only the best genre, rock. my favorite band is Incubus. 8 years and going pianst, at a very high level. Accepted into FSU Piano Summer institute 2 times and counting. Mostly classical, but I am involved in a small band at my school.
 
-i listen to only the best genre, rock. my favorite band is Incubus.
+## Currently:
 
-## currently:
-
-void linux musl (pc)\
-void linux (server)\
-running local llms\
-wanting to build a stupidly overpowered home server\
-making cool personal projects to learn
-addicted to cpp
-making a game with sfml in cpp for a school thing
-planning an OpenGL project with cpp (i'll start once i refine my skill)
+Void Linux musl (pc)\
+void linux glibc (server)\
+Running local llms\
+Making cool personal projects to learn about CS
+Addicted to cpp (it's only getting stronger)
+Making a game with SFML in cpp for a school thing
+Planning an OpenGL project with cpp (i'll start once i refine my skill and finish up my SFML project)
 
 ## projects rn:
 
-### sfml platformer in cpp
-stupid little platformer. sfml, cpp.
+### SFML platformer in cpp
+Stupid little platformer. SFML, cpp. Collabing with a friend
 
 ### self hosting stuff
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
@@ -28,15 +25,17 @@ docker stuff like forgejo, minecraft servers, and other dumb stuff like arch lin
 ## goals
 - 165+ wpm 15 secons
 - 145+ wpm 60 seconds
-- Get better at c
-- start lua soon
+- Get better at c, continue learning and refining cpp skill
+- Lean how to use OpenGL with cpp, and maybe make a little game engine
+- Start lua soon
+- Make a stupid little kernel with Zig for no reason except i like Zig
 
-### links
+### Links
 [website](https://ojace8143.github.io)
 [monkeytype](https://monkeytype.com/profile/ojace8143)
 
-## my setup
-laptop
+## My Hardware
+Gaming Laptop (I have my regrets)
 ```main laptop
 OS      Void Linux (musl)
 WM      MangoWM
@@ -46,7 +45,7 @@ GPU     RTX 4060/780M
 CPU     Ryzen 9 7940HS
 RAM     32GB ddr5 (dont rob me just be poor)
 ```
-server
+Server (intel nuc from like 2015)
 ```my server
 OS      Void Linux
 WM      none
@@ -54,7 +53,7 @@ Shell   zsh
 CPU     i5-4250U (4th gen btw)
 RAM     16GB ddr3
 ```
-sacrificial distrohopping laptop
+Sacrificial distrohopping laptop (Ideapad flex3 from 2019)
 ```other laptop
 OS      Omarchy
 WM      Hyprland
