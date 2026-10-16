@@ -9,9 +9,9 @@ I spend a lot of time typing really fast on Monkeytype and self hosting things, 
 Void Linux musl (pc)\
 void linux glibc (server)\
 Running local llms\
-Making cool personal projects to learn about CS
-Addicted to cpp (it's only getting stronger)
-Making a game with SFML in cpp for a school thing
+Making cool personal projects to learn about CS\
+Addicted to cpp (it's only getting stronger)\
+Making a game with SFML in cpp for a school thing\
 Planning an OpenGL project with cpp (i'll start once i refine my skill and finish up my SFML project)
 
 ## Projects:
