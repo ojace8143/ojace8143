@@ -23,15 +23,15 @@ Stupid little platformer. SFML, cpp. Collabing with a friend
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
 
 ## Goals
-- 165+ wpm 15 seconds (literally just did that lol smashed pb by 8wpm)
-- 145+ wpm 60 seconds
+- 180+ wpm 15 seconds (just got 170wpm)
+- 145+ wpm 60 seconds (getting close)
 - Get better at c, continue learning and refining cpp skill
 - Lean how to use OpenGL with cpp, and maybe make a little game engine
 - Start lua soon or something
 - Make a stupid little kernel with Zig for no reason except I like Zig
 
 ### Links
-[website](https://ojace8143.github.io)
+[website](https://ojace8143.github.io)\
 [monkeytype](https://monkeytype.com/profile/ojace8143)
 
 ## My Hardware
