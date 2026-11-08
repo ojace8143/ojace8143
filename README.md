@@ -54,15 +54,25 @@ Shell   zsh
 CPU     i5-4250U (4th gen btw)
 RAM     16GB ddr3
 ```
+revived pc thats older than me
+```
+OS      Void Linux
+WM      Mango, but going to strip it down
+Shell   zsh
+cpu     Amd Phenom 2 X4
+gpu     GTX 550ti
+ram     8gb ddr3
+storage 128gb ssd, 2tb hdd
+```
 Sacrificial distrohopping laptop (Ideapad flex3 from 2019)
 ```other laptop
-OS      Omarchy
-WM      Hyprland
-Shell   Bash
+OS      Alpine linux
+WM      dwm
+Shell   zsh
 Editor  Neovim
 GPU     Vega 3
 CPU     AMD Athlon 3050e Silver
-RAM     4GB ddr4
+RAM     4GB ddr4 (non upgradeable)
 MODEL   Ideapax Flex3 (11ada05)
 ```
 
