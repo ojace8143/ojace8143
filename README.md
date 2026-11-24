@@ -1,18 +1,16 @@
-# ojace8143's stuff
+# about ojace8143
 
-Just a high school sophomore who likes Linux. I'm a self taught programmer in the works, and a stupid idea generator
+Dual enrolled high school sophomore who likes Linux. I'm a self taught programmer in the works, and a stupid idea generator
 
 I spend a lot of time typing really fast on Monkeytype and self hosting things, and I listen to only the best genre, rock. my favorite band is Incubus. 8 years and going pianst, at a very high level. Accepted into FSU Piano Summer institute 2 times and counting. Mostly classical, but I am involved in a small band at my school.
 
 ## Currently:
 
-Void Linux musl (pc)\
-void linux glibc (server)\
-Running local llms\
-Making cool personal projects to learn about CS\
-Addicted to cpp (it's only getting stronger)\
-Making a game with SFML in cpp for a school thing\
-Planning an OpenGL project with cpp (i'll start once i refine my skill and finish up my SFML project)
+* Glazing void linux\
+* Running local llms like Qwen\
+* Making cool personal projects to learn about CS\
+* Addicted to cpp, zig and shell scripting (it's only getting stronger)\
+* Planning an ambitious project (i'll reveal more later when I have the time)
 
 ## Projects:
 
@@ -23,18 +21,19 @@ Stupid little platformer. SFML, cpp. Collabing with a friend
 docker stuff like forgejo, minecraft servers, and other dumb stuff like arch linux in a web browser
 
 ## Goals
-- 180+ wpm 15 seconds (just got 170wpm)
-- 145+ wpm 60 seconds (getting close)
-- Get better at c, continue learning and refining cpp skill
-- Lean how to use OpenGL with cpp, and maybe make a little game engine
-- Start lua soon or something
-- Make a stupid little kernel with Zig for no reason except I like Zig
+* 180+ wpm 15 seconds (pb: 179 lol)
+* 160+ wpm 60 seconds (pb: 150)
+* Get better at c (or switch to zig), continue learning and refining cpp skill
+* Lean how to use OpenGL with cpp, and maybe make a little game engine
+* Start lua soon or something
+* Make a stupid little kernel with Zig for no reason except I like Zig
 
 ### Links
 [website](https://ojace8143.github.io)\
 [monkeytype](https://monkeytype.com/profile/ojace8143)
 
 ## My Hardware
+
 Gaming Laptop (I have my regrets)
 ```main laptop
 OS      Void Linux (musl)
