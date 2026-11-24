@@ -6,10 +6,10 @@ I spend a lot of time typing really fast on Monkeytype and self hosting things, 
 
 ## Currently:
 
-* Glazing void linux\
-* Running local llms like Qwen\
-* Making cool personal projects to learn about CS\
-* Addicted to cpp, zig and shell scripting (it's only getting stronger)\
+* Glazing void linux
+* Running local llms like Qwen
+* Making cool personal projects to learn about CS
+* Addicted to cpp, zig and shell scripting (it's only getting stronger)
 * Planning an ambitious project (i'll reveal more later when I have the time)
 
 ## Projects:
@@ -25,7 +25,6 @@ docker stuff like forgejo, minecraft servers, and other dumb stuff like arch lin
 * 160+ wpm 60 seconds (pb: 150)
 * Get better at c (or switch to zig), continue learning and refining cpp skill
 * Lean how to use OpenGL with cpp, and maybe make a little game engine
-* Start lua soon or something
 * Make a stupid little kernel with Zig for no reason except I like Zig
 
 ### Links
