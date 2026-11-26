@@ -65,6 +65,17 @@ I spend a lot of time typing really fast on Monkeytype and self hosting things, 
   RAM     4GB ddr4 (non upgradeable)
   MODEL   Ideapax Flex3 (11ada05)
   ```
+
+  another laptop my grandma just gave to me randomly
+  ```laptop2
+  OS  Void linux for now
+  WM  none
+  Shell  zsh/bash, using both
+  CPU  Intel celeron 2530 i think
+  GPU  Intel Atom (????)
+  RAM 4gb ddr3 (BUT SLOTTED SO I CAN UPGRADE)
+  MODEL  dell inspirion something
+  ```
 </details>
 
 ## Github stats
